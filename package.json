@@ -6,8 +6,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "date-fns": "^2.11.1",
+    "gray-matter": "^4.0.2",
     "next": "latest",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
-  }
+    "react-dom": "17.0.2",
+    "remark": "^14.0.1",
+    "remark-html": "^15.0.0"
+  },
+  "name": "nextjs-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mazhar11-cou <mazhar11808006@gmail.com>",
+  "license": "MIT"
 }
